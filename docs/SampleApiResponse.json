@@ -1,0 +1,644 @@
+{
+	"status": "success",
+	"statusCode": 200,
+	"message": "IPO details fetched successfully",
+	"data": [
+		{
+			"symbol": "TEMPSENS",
+			"type": "Mainboard",
+			"name": "Tempsens Instruments",
+			"priceRange": "₹285 – ₹300",
+			"lotSize": "50",
+			"status": "LIVE",
+			"schedule": {
+				"startDate": "2026-08-20",
+				"endDate": "2026-08-24",
+				"listingDate": "2026-08-28",
+				"upiMandateDeadline": "2026-08-24",
+				"allotmentFinalization": "2026-08-25",
+				"refundInitiation": "2026-08-27",
+				"shareCredit": "2026-08-27",
+				"mandateEndDate": "2026-09-08",
+				"lockInEndDateAnchor50": "2026-09-23",
+				"lockInEndDateAnchorRemaining": "2026-11-22"
+			}
+		},
+		{
+			"symbol": "AUGMONT",
+			"type": "Mainboard",
+			"name": "Augmont Enterprises",
+			"priceRange": "₹750 – ₹788",
+			"lotSize": "19",
+			"status": "LIVE",
+			"schedule": {
+				"startDate": "2026-08-21",
+				"endDate": "2026-08-25",
+				"listingDate": "2026-08-28",
+				"upiMandateDeadline": "2026-08-25",
+				"allotmentFinalization": "2026-08-26",
+				"refundInitiation": "2026-08-27",
+				"shareCredit": "2026-08-27",
+				"mandateEndDate": "2026-09-09",
+				"lockInEndDateAnchor50": "2026-09-24",
+				"lockInEndDateAnchorRemaining": "2026-11-23"
+			}
+		},
+		{
+			"symbol": "SKYWAYS",
+			"type": "Mainboard",
+			"name": "Skyways Air Services",
+			"priceRange": "₹131 – ₹138",
+			"lotSize": "100",
+			"status": "UPCOMING",
+			"schedule": {
+				"startDate": "2026-08-24",
+				"endDate": "2026-08-27",
+				"listingDate": "2026-09-01",
+				"upiMandateDeadline": "2026-08-27",
+				"allotmentFinalization": "2026-08-27",
+				"refundInitiation": "2026-08-31",
+				"shareCredit": "2026-08-31",
+				"mandateEndDate": "2026-09-11",
+				"lockInEndDateAnchor50": "2026-09-26",
+				"lockInEndDateAnchorRemaining": "2026-11-25"
+			}
+		},
+		{
+			"symbol": "HTEL",
+			"type": "Mainboard",
+			"name": "Hy-Tech Engineers",
+			"priceRange": "₹50 – ₹53",
+			"lotSize": "283",
+			"status": "UPCOMING",
+			"schedule": {
+				"startDate": "2026-08-24",
+				"endDate": "2026-08-27",
+				"listingDate": "2026-09-01",
+				"upiMandateDeadline": "2026-08-27",
+				"allotmentFinalization": "2026-08-28",
+				"refundInitiation": "2026-08-31",
+				"shareCredit": "2026-08-31",
+				"mandateEndDate": "2026-09-11",
+				"lockInEndDateAnchor50": "2026-09-26",
+				"lockInEndDateAnchorRemaining": "2026-11-25"
+			}
+		},
+		{
+			"symbol": "SYMBIOTEC",
+			"type": "Mainboard",
+			"name": "Symbiotec Pharmalab",
+			"priceRange": "₹938 – ₹988",
+			"lotSize": "15",
+			"status": "UPCOMING",
+			"schedule": {
+				"startDate": "2026-08-24",
+				"endDate": "2026-08-27",
+				"listingDate": "2026-09-01",
+				"upiMandateDeadline": "2026-08-27",
+				"allotmentFinalization": "2026-08-27",
+				"refundInitiation": "2026-08-31",
+				"shareCredit": "2026-08-31",
+				"mandateEndDate": "2026-09-11",
+				"lockInEndDateAnchor50": "2026-09-26",
+				"lockInEndDateAnchorRemaining": "2026-11-25"
+			}
+		},
+		{
+			"symbol": "ABH",
+			"type": "SME",
+			"name": "ABH Healthcare",
+			"priceRange": "₹96 – ₹102",
+			"lotSize": "1200",
+			"status": "UPCOMING",
+			"schedule": {
+				"startDate": "2026-08-24",
+				"endDate": "2026-08-27",
+				"listingDate": "2026-09-01",
+				"upiMandateDeadline": "2026-08-27",
+				"allotmentFinalization": "2026-08-28",
+				"refundInitiation": "2026-08-31",
+				"shareCredit": "2026-08-31",
+				"mandateEndDate": "2026-09-11",
+				"lockInEndDateAnchor50": "2026-09-26",
+				"lockInEndDateAnchorRemaining": "2026-11-25"
+			}
+		},
+		{
+			"symbol": "MADHURKNIT",
+			"type": "SME",
+			"name": "Madhur Knit Crafts",
+			"priceRange": "₹95 – ₹100",
+			"lotSize": "1200",
+			"status": "UPCOMING",
+			"schedule": {
+				"startDate": "2026-08-24",
+				"endDate": "2026-08-27",
+				"listingDate": "2026-09-01",
+				"upiMandateDeadline": "2026-08-27",
+				"allotmentFinalization": "2026-08-27",
+				"refundInitiation": "2026-08-31",
+				"shareCredit": "2026-08-31",
+				"mandateEndDate": "2026-09-11",
+				"lockInEndDateAnchor50": "2026-09-26",
+				"lockInEndDateAnchorRemaining": "2026-11-25"
+			}
+		},
+		{
+			"symbol": "NSE",
+			"type": "Mainboard",
+			"name": "NSE",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "JIO",
+			"type": "Mainboard",
+			"name": "Reliance Jio",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "ACKO",
+			"type": "Mainboard",
+			"name": "Acko",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "OYO",
+			"type": "Mainboard",
+			"name": "OYO",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "PARLE",
+			"type": "Mainboard",
+			"name": "Parle Products",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "MAKEMYTRIP",
+			"type": "Mainboard",
+			"name": "MakeMyTrip",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "BOAT",
+			"type": "Mainboard",
+			"name": "BOAT",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "ZEPTO",
+			"type": "Mainboard",
+			"name": "Zepto",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "EAAAINDIA",
+			"type": "Mainboard",
+			"name": "EAAA India Alternatives",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "PHONEPE",
+			"type": "Mainboard",
+			"name": "PhonePe",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "FLIPKART",
+			"type": "Mainboard",
+			"name": "Flipkart",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "HEROFINCORP",
+			"type": "Mainboard",
+			"name": "Hero Fincorp",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "FABINDIA",
+			"type": "Mainboard",
+			"name": "FabIndia",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "HEROMOTO",
+			"type": "Mainboard",
+			"name": "Hero Motors",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "CULTFIT",
+			"type": "Mainboard",
+			"name": "Cult.fit",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "MPIS",
+			"type": "Mainboard",
+			"name": "Manipal Payment and Identity Solutions",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "KUKU",
+			"type": "Mainboard",
+			"name": "KUKU (Mebigo Labs)",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "KENTRO",
+			"type": "Mainboard",
+			"name": "Kent RO Systems",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "BAJAJENERGY",
+			"type": "Mainboard",
+			"name": "Bajaj Energy",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "ZETWERK",
+			"type": "Mainboard",
+			"name": "Zetwerk",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "PAYU",
+			"type": "Mainboard",
+			"name": "PayU",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "HCCB",
+			"type": "Mainboard",
+			"name": "Hindustan Coca-Cola Beverages",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "CARDEKHO",
+			"type": "Mainboard",
+			"name": "CarDekho",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "DUROFLEX",
+			"type": "Mainboard",
+			"name": "Duroflex",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "INNOVITI",
+			"type": "Mainboard",
+			"name": "Innoviti",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "RENTOMOJO",
+			"type": "Mainboard",
+			"name": "Rentomojo",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "UPSTOX",
+			"type": "Mainboard",
+			"name": "Upstox",
+			"priceRange": "–",
+			"status": "UPCOMING"
+		},
+		{
+			"symbol": "GAJA",
+			"type": "Mainboard",
+			"name": "Gaja Alternative Asset Management",
+			"priceRange": "₹152 – ₹160",
+			"lotSize": "93",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-19",
+				"endDate": "2026-08-21",
+				"listingDate": "2026-08-26",
+				"upiMandateDeadline": "2026-08-21",
+				"allotmentFinalization": "2026-08-24",
+				"refundInitiation": "2026-08-25",
+				"shareCredit": "2026-08-25",
+				"mandateEndDate": "2026-09-05",
+				"lockInEndDateAnchor50": "2026-09-22",
+				"lockInEndDateAnchorRemaining": "2026-11-21"
+			}
+		},
+		{
+			"symbol": "LOLTZCZP",
+			"type": "SSE",
+			"name": "The Light of Life Trust (LOLT)",
+			"priceRange": "₹1",
+			"lotSize": "1000",
+			"status": "CLOSED"
+		},
+		{
+			"symbol": "DHANWEL",
+			"type": "SME",
+			"name": "Dhanwel Hybrid Seeds",
+			"priceRange": "₹95 – ₹99",
+			"lotSize": "1200",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-19",
+				"endDate": "2026-08-21",
+				"listingDate": "2026-08-26",
+				"upiMandateDeadline": "2026-08-21",
+				"allotmentFinalization": "2026-08-24",
+				"refundInitiation": "2026-08-25",
+				"shareCredit": "2026-08-25",
+				"mandateEndDate": "2026-09-05",
+				"lockInEndDateAnchor50": "2026-09-22",
+				"lockInEndDateAnchorRemaining": "2026-11-21"
+			}
+		},
+		{
+			"symbol": "MOPSHOP",
+			"type": "SME",
+			"name": "Mopshop Distribution",
+			"priceRange": "₹138",
+			"lotSize": "1000",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-19",
+				"endDate": "2026-08-21",
+				"listingDate": "2026-08-26",
+				"upiMandateDeadline": "2026-08-21",
+				"allotmentFinalization": "2026-08-24",
+				"refundInitiation": "2026-08-25",
+				"shareCredit": "2026-08-25",
+				"mandateEndDate": "2026-09-05",
+				"lockInEndDateAnchor50": "2026-09-22",
+				"lockInEndDateAnchorRemaining": "2026-11-21"
+			}
+		},
+		{
+			"symbol": "SHANKESH",
+			"type": "Mainboard",
+			"name": "Shankesh Jewellers",
+			"priceRange": "₹88 – ₹93",
+			"lotSize": "160",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-18",
+				"endDate": "2026-08-20",
+				"listingDate": "2026-08-25",
+				"upiMandateDeadline": "2026-08-20",
+				"allotmentFinalization": "2026-08-21",
+				"refundInitiation": "2026-08-24",
+				"shareCredit": "2026-08-24",
+				"mandateEndDate": "2026-09-04",
+				"lockInEndDateAnchor50": "2026-09-19",
+				"lockInEndDateAnchorRemaining": "2026-11-18"
+			}
+		},
+		{
+			"symbol": "SUNSHINE",
+			"type": "Mainboard",
+			"name": "Sunshine Pictures",
+			"priceRange": "₹342 – ₹360",
+			"lotSize": "41",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-18",
+				"endDate": "2026-08-20",
+				"listingDate": "2026-08-25",
+				"upiMandateDeadline": "2026-08-20",
+				"allotmentFinalization": "2026-08-21",
+				"refundInitiation": "2026-08-24",
+				"shareCredit": "2026-08-24",
+				"mandateEndDate": "2026-09-04",
+				"lockInEndDateAnchor50": "2026-09-19",
+				"lockInEndDateAnchorRemaining": "2026-11-18"
+			}
+		},
+		{
+			"symbol": "LALITHAA",
+			"type": "Mainboard",
+			"name": "Lalithaa Jewellery Mart",
+			"priceRange": "₹190 – ₹201",
+			"lotSize": "74",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-17",
+				"endDate": "2026-08-19",
+				"listingDate": "2026-08-24",
+				"upiMandateDeadline": "2026-08-19",
+				"allotmentFinalization": "2026-08-20",
+				"refundInitiation": "2026-08-21",
+				"shareCredit": "2026-08-21",
+				"mandateEndDate": "2026-09-03",
+				"lockInEndDateAnchor50": "2026-09-18",
+				"lockInEndDateAnchorRemaining": "2026-11-17"
+			}
+		},
+		{
+			"symbol": "HORIZONIND",
+			"type": "Mainboard",
+			"name": "Horizon Industrial Parks",
+			"priceRange": "₹57 – ₹60",
+			"lotSize": "250",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-17",
+				"endDate": "2026-08-19",
+				"listingDate": "2026-08-24",
+				"upiMandateDeadline": "2026-08-19",
+				"allotmentFinalization": "2026-08-20",
+				"refundInitiation": "2026-08-21",
+				"shareCredit": "2026-08-21",
+				"mandateEndDate": "2026-09-03",
+				"lockInEndDateAnchor50": "2026-09-18",
+				"lockInEndDateAnchorRemaining": "2026-11-17"
+			}
+		},
+		{
+			"symbol": "FASCINATE",
+			"type": "SME",
+			"name": "Fascinate Textiles",
+			"priceRange": "₹142 – ₹151",
+			"lotSize": "800",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-11",
+				"endDate": "2026-08-19",
+				"listingDate": "2026-08-24",
+				"upiMandateDeadline": "2026-08-19",
+				"allotmentFinalization": "2026-08-20",
+				"refundInitiation": "2026-08-21",
+				"shareCredit": "2026-08-21",
+				"mandateEndDate": "2026-09-03",
+				"lockInEndDateAnchor50": "2026-09-18",
+				"lockInEndDateAnchorRemaining": "2026-11-17"
+			}
+		},
+		{
+			"symbol": "TECHNOCRAT",
+			"type": "SME",
+			"name": "Technocrats Plasma Systems",
+			"priceRange": "₹125 – ₹132",
+			"lotSize": "1000",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-14",
+				"endDate": "2026-08-18",
+				"listingDate": "2026-08-21",
+				"upiMandateDeadline": "2026-08-18",
+				"allotmentFinalization": "2026-08-19",
+				"refundInitiation": "2026-08-20",
+				"shareCredit": "2026-08-20",
+				"mandateEndDate": "2026-09-02",
+				"lockInEndDateAnchor50": "2026-09-17",
+				"lockInEndDateAnchorRemaining": "2026-11-16"
+			}
+		},
+		{
+			"symbol": "ENS",
+			"type": "SME",
+			"name": "ENS Enterprises",
+			"priceRange": "₹87 – ₹92",
+			"lotSize": "1200",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-14",
+				"endDate": "2026-08-18",
+				"listingDate": "2026-08-21",
+				"upiMandateDeadline": "2026-08-18",
+				"allotmentFinalization": "2026-08-19",
+				"refundInitiation": "2026-08-20",
+				"shareCredit": "2026-08-20",
+				"mandateEndDate": "2026-09-02",
+				"lockInEndDateAnchor50": "2026-09-17",
+				"lockInEndDateAnchorRemaining": "2026-11-16"
+			}
+		},
+		{
+			"symbol": "SKYTECH",
+			"type": "SME",
+			"name": "Skytech Infinite Platform",
+			"priceRange": "₹73 – ₹77",
+			"lotSize": "1600",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-14",
+				"endDate": "2026-08-18",
+				"listingDate": "2026-08-21",
+				"upiMandateDeadline": "2026-08-18",
+				"allotmentFinalization": "2026-08-19",
+				"refundInitiation": "2026-08-20",
+				"shareCredit": "2026-08-20",
+				"mandateEndDate": "2026-09-02",
+				"lockInEndDateAnchor50": "2026-09-17",
+				"lockInEndDateAnchorRemaining": "2026-11-16"
+			}
+		},
+		{
+			"symbol": "CREDENT",
+			"type": "SME",
+			"name": "Credent Connect N Care",
+			"priceRange": "₹179 – ₹189",
+			"lotSize": "600",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-13",
+				"endDate": "2026-08-17",
+				"listingDate": "2026-08-20",
+				"upiMandateDeadline": "2026-08-17",
+				"allotmentFinalization": "2026-08-18",
+				"refundInitiation": "2026-08-19",
+				"shareCredit": "2026-08-19",
+				"mandateEndDate": "2026-09-01",
+				"lockInEndDateAnchor50": "2026-09-16",
+				"lockInEndDateAnchorRemaining": "2026-11-15"
+			}
+		},
+		{
+			"symbol": "SHIPROCKET",
+			"type": "Mainboard",
+			"name": "Shiprocket",
+			"priceRange": "₹92 – ₹97",
+			"lotSize": "154",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-12",
+				"endDate": "2026-08-14",
+				"listingDate": "2026-08-19",
+				"upiMandateDeadline": "2026-08-14",
+				"allotmentFinalization": "2026-08-17",
+				"refundInitiation": "2026-08-18",
+				"shareCredit": "2026-08-18",
+				"mandateEndDate": "2026-08-29",
+				"lockInEndDateAnchor50": "2026-09-15",
+				"lockInEndDateAnchorRemaining": "2026-11-14"
+			}
+		},
+		{
+			"symbol": "BLEL",
+			"type": "Mainboard",
+			"name": "Behari Lal Engineering",
+			"priceRange": "₹271 – ₹285",
+			"lotSize": "52",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-12",
+				"endDate": "2026-08-14",
+				"listingDate": "2026-08-19",
+				"upiMandateDeadline": "2026-08-14",
+				"allotmentFinalization": "2026-08-17",
+				"refundInitiation": "2026-08-18",
+				"shareCredit": "2026-08-18",
+				"mandateEndDate": "2026-08-29",
+				"lockInEndDateAnchor50": "2026-09-15",
+				"lockInEndDateAnchorRemaining": "2026-11-14"
+			}
+		},
+		{
+			"symbol": "PRAMODINI",
+			"type": "SME",
+			"name": "Pramodini Medicare",
+			"priceRange": "₹110 – ₹118",
+			"lotSize": "1200",
+			"status": "CLOSED",
+			"schedule": {
+				"startDate": "2026-08-12",
+				"endDate": "2026-08-14",
+				"listingDate": "2026-08-19",
+				"upiMandateDeadline": "2026-08-14",
+				"allotmentFinalization": "2026-08-17",
+				"refundInitiation": "2026-08-18",
+				"shareCredit": "2026-08-18",
+				"mandateEndDate": "2026-08-29",
+				"lockInEndDateAnchor50": "2026-09-15",
+				"lockInEndDateAnchorRemaining": "2026-11-14"
+			}
+		}
+	]
+}

@@ -1,0 +1,25 @@
+.container {
+	padding: 4px 6px;
+}
+
+.sectionContainer {
+	margin-bottom: 16px;
+}
+
+.ipoCardsContainer {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 8px;
+}
+
+@media (min-width: 768px) {
+	.ipoCardsContainer {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (min-width: 1024px) {
+	.ipoCardsContainer {
+		grid-template-columns: repeat(4, 1fr);
+	}
+}

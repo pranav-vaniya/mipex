@@ -1,0 +1,144 @@
+.container {
+	padding: 8px;
+	border-radius: 8px;
+	background-color: white;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.cardHeader {
+	display: flex;
+	flex-direction: row;
+	gap: 8px;
+	align-items: center;
+}
+
+.typeSpan {
+	padding: 2px 4px;
+	border-radius: 4px;
+	font-family: var(--monospace-font-family);
+}
+
+.typeSpan.mainboard {
+	background: #eef2ff;
+	color: #4338ca;
+}
+
+.typeSpan.sme {
+	background: #fff7ed;
+	color: #c2410c;
+}
+
+.nameContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 0px;
+}
+
+.priceSpan {
+	font-size: small;
+	font-family: var(--monospace-font-family);
+}
+
+.datesContainer {
+	display: flex;
+	flex-direction: row;
+	gap: 2px;
+	background-color: #e3e3e3;
+	border-radius: 4px;
+}
+
+.dateSpan {
+	background-color: #f3f3f3;
+	height: 28px;
+	width: 28px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 2px 6px;
+	font-family: var(--monospace-font-family);
+}
+
+.datesContainer .dateSpan:first-child {
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+
+.datesContainer .dateSpan:last-child {
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+
+.dateSpan.completed {
+	background: #eff6ff;
+	color: #2563eb;
+}
+
+.dateSpan.ongoing {
+	background: #ecfdf3;
+	color: #15803d;
+}
+
+.dateSpan.upcoming {
+	background: #f8fafc;
+	color: #64748b;
+}
+
+.cardBody {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.bodyDiv {
+	display: flex;
+	flex-direction: row;
+	gap: 8px;
+}
+
+.bidAmoundContainer {
+	margin-left: auto;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 2px;
+	border-radius: 4px;
+	background-color: #e3e3e3;
+}
+
+.bidAmountSpan {
+	background-color: #f3f3f3;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 2px 6px;
+	font-family: var(--monospace-font-family);
+	height: 100%;
+}
+
+.bidAmountBtn {
+	background-color: #f3f3f3;
+	border: none;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 0px 6px;
+	height: 100%;
+	font-family: var(--monospace-font-family);
+	font-size: medium;
+}
+
+.bidAmoundContainer .bidAmountBtn:first-child {
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+
+.bidAmoundContainer .bidAmountBtn:last-child {
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
